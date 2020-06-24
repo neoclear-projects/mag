@@ -1,0 +1,8 @@
+**/lex.yy.c
+**/mag
+**/y.output
+**/y.tab.c
+**/y.tab.h
+**/.vscode
+**/*.o
+**/ast
